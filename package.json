@@ -1,5 +1,5 @@
 {
-  "homepage": "https://eormeno12.github.io/dom-manipulation-fetch",
+  "homepage": "https://eormeno12.github.io/dom-manipulation-fetch/public/index.html",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
